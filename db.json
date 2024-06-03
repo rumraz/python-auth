@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1b6ac2ae-f05a-418f-aa85-cff2645e7732",
+    "username": "admin",
+    "email": "admin@gmail.com",
+    "password": "scrypt:32768:8:1$2eW5hXI0CuxAe9G2$61aba01e08747ac816f56e6530ba249367133d8936bce992e2d29a8454985193ad294b018eeb00badbd180c0f73dfd0365ce87dc880e0efd911b752e5f7bdb76"
+  },
+  {
+    "id": "41bb523f-2c04-4bea-ac52-856e724fb9d2",
+    "username": "Rumman",
+    "email": "rumman@gmail.com",
+    "password": "scrypt:32768:8:1$jSAG94pi6zG295nx$ba9ea259ed99fc4bef54686fc955a99af8844e7642a02144f90fb900ceb2e7446a8169a444f074c96e4084099a17a1cf0fba67e8ce134742cc2bfd0c6b0d20b4"
+  },
+  {
+    "id": "8fe12770-2aea-4f49-b82a-898a962262b0",
+    "username": "juhi",
+    "email": "juhi@gmail.com",
+    "password": "scrypt:32768:8:1$zat0ywSU6AGF6YOO$1050d65b8f30fe3fe42e6ba61989d9295da42e83d8f1f778de6bff4c640dc8b50d8c69ae799ae68cb845fda552c2baddcc49a3fbbb2e8a362eafbd13050e072e"
+  }
+]
